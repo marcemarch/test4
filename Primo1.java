@@ -1,4 +1,4 @@
-public class Primo1 {
+public class Primo1 { 
 
    public static boolean esPrimo6(int n) {
 
